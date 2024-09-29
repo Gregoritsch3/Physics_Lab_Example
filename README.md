@@ -1,0 +1,1 @@
+An example of a Physics Lab (Diffraction and Interference) showcasing measurement data analysis, calculation of error propagation, non-linear regression, data visualization using MatplotLib and more. Key skills: Python, NumPy, SciPy, SymPy, MatplotLib, LateX. Paper is in Croatian language, while the associated .ipynb file has comments in English.
